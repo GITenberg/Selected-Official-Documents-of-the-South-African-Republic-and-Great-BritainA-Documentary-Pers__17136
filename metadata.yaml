@@ -1,0 +1,36 @@
+_repo: Selected-Official-Documents-of-the-South-African-Republic-and-Great-BritainA-Documentary-Pers__17136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Williams, Hugh
+    birthdate: 1873
+    deathdate: 1902
+    gutenberg_agent_id: '7159'
+    url: http://www.gutenberg.org/2009/agents/7159
+  - agent_name: Hicks, Frederick C. (Frederick Charles)
+    alias: Hicks, Frederick Charles
+    birthdate: 1875
+    gutenberg_agent_id: '7160'
+    url: http://www.gutenberg.org/2009/agents/7160
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transvaal (South Africa) -- History -- 1880-1910'
+- !lcsh 'Great Britain -- Foreign relations -- South Africa -- Transvaal'
+- !lcc 'DT'
+- !lcsh 'Transvaal (South Africa) -- Foreign relations -- Great Britain'
+title: 'Selected Official Documents of the South African Republic and Great Britain
+
+  A Documentary Perspective Of The Causes Of The War In South Africa'
+url: http://www.gutenberg.org/ebooks/17136
